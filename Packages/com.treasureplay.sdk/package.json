@@ -1,0 +1,22 @@
+{
+  "name": "com.treasureplay.sdk",
+  "displayName": "Treasure Play SDK",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "SDK for integrating Treasure Play quests, analytics, and content delivery into Unity projects.",
+  "keywords": ["treasure", "quests", "sdk", "analytics"],
+  "author": {
+    "name": "Treasure Play",
+    "email": "support@treasureplay.example",
+    "url": "https://treasureplay.example"
+  },
+  "documentationUrl": "http://console.treasureplay.com/documentation/sdk_integration",
+  "changelogUrl": "",
+  "samples": [
+    {
+      "displayName": "Treasure Play Demo Scene",
+      "description": "Example scene demonstrating how to initialize the SDK and present quest UI.",
+      "path": "Samples/TreasurePlayDemo"
+    }
+  ]
+}
